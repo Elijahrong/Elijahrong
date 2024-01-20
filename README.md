@@ -1,7 +1,5 @@
 # profile
 
-# profile
-
 <div align=center> 
 <p>
  <a href="https://blog.naver.com/elijahrong/" target="_blank"><img src="https://img.shields.io/badge/DailyBlog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
